@@ -4,11 +4,10 @@ import {
   Search, Plus, Calendar, Eye, FileText, Mail, Shield, 
   CheckCircle2, XCircle, Database, Edit2, Trash2, 
   MoreHorizontal, Sparkles, Building2, SlidersHorizontal,
-  ChevronLeft, ChevronRight, UserCircle, Loader2, X,
+  UserCircle, Loader2, X,
   AlertCircle, AlertTriangle, Info, Check, Globe, Upload,
-  Clock, RefreshCw, Users, TrendingUp, Zap, Trophy, Target,
-  Briefcase, Settings2, Users2, ShieldAlert, BarChart3,
-  ShieldCheck, Cloud, Rocket, Factory, Layers, Target as TargetIcon
+  Clock, RefreshCw, Users, TrendingUp, Zap, ShieldAlert, BarChart3,
+  ShieldCheck, Cloud, Rocket, Factory
 } from 'lucide-react';
 
 // ============================================
