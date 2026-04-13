@@ -2,8 +2,7 @@ import React from 'react';
 import { 
   Search, Plus, Calendar, Eye, FileText, Mail, Shield, 
   CheckCircle2, XCircle, Database, Edit2, Trash2, 
-  MoreHorizontal, Sparkles, Building2, SlidersHorizontal,
-  ChevronLeft, ChevronRight, UserCircle, Loader2
+  MoreHorizontal, Sparkles, Building2, SlidersHorizontal, UserCircle
 } from 'lucide-react';
 
 // ============================================
